@@ -19,6 +19,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "lodash": "4.17.19",
+    "nodejieba": "^2.5.2",
     "redisearch": "0.0.11"
   },
   "devDependencies": {
